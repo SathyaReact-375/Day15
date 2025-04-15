@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Day15/static/js/main.c85984df.js",
+    "static/js/453.ec8a35ab.chunk.js": "/Day15/static/js/453.ec8a35ab.chunk.js",
+    "index.html": "/Day15/index.html",
+    "main.c85984df.js.map": "/Day15/static/js/main.c85984df.js.map",
+    "453.ec8a35ab.chunk.js.map": "/Day15/static/js/453.ec8a35ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c85984df.js"
+  ]
+}
