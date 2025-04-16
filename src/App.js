@@ -12,9 +12,7 @@ import Contacts from './Pages/Contacts';
 import Nav from './Components/Nav';
 function App() {
   return (
-    <>
-    
-     
+    <> 
      <Nav/>
      <Routes>
      <Route path="/" element={<Home/>}></Route>
@@ -22,12 +20,11 @@ function App() {
       <Route path="Team" element={<Team />} />
           <Route path="Company" element={<Company/>} />
       </Route>
-      
       <Route path='*' element={<Fournotfour/>}></Route>
       <Route path="Protected" element={<Protected />} />
       <Route path="Post" element={<Post/>} />
       <Route path="Products" element={<Products />} />
-<Route path="/Contacts" element={<Contacts />} />
+      <Route path="/Contacts" element={<Contacts />} />
       </Routes>
    
     </> 
